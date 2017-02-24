@@ -1,0 +1,8 @@
+*.pyc
+*.csv
+*.txt
+*.xlsx
+*.xltm
+*~
+__pycache__
+venv
